@@ -1,6 +1,4 @@
-import pandas as pd
 
-from funcion_5d import *
 from funciones import *
 from variables import *
 
