@@ -16,25 +16,6 @@ coordList = ["lat=31&lon=64", "lat=40&lon=-73", "lat=-31&lon=-64",
 #? Defino una funcion para concatenar la BASE_URL, con las coordenadas y el token
 lista_urls=[]
 def consultas_url ():
-    for c in range(10):
-        lista_urls.append(BASE_URL + coordList[c]+'&appid='+token2)
+    for c in range(5):
+        lista_urls.append(BASE_URL + coordList[c]+'&appid='+token2+'&units=metric')
     return lista_urls
-
-#? defino exportacion de csv
-
-
-#print(json_anidados)
-#df2 = pd.json_normalize(json_anidados)
-#print("imprimo df2")
-#print(df2)
-
-#print("imprimo lista url de las ciudades")
-#for i in lista_urls:
-#    print(i)
-
-"""print("imprimo JSON_ANIDADOS")
-for j in json_anidados:
-    print(j.keys())
-    a=list(j.keys())
-#print(a)
-print(json_anidados[0]['coord'])"""
