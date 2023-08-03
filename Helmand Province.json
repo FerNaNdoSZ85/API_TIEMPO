@@ -1,0 +1,653 @@
+{
+  "Helmand Province": {
+    "ciudad": "Helmand Province",
+    "pais": "AF",
+    "zona_horaria": 16200,
+    "latitud": 31,
+    "longitud": 64,
+    "amanecer": 1691024520,
+    "atardecer": 1691073502,
+    "valores_diarios": [
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      },
+      {
+        "dt": 1691452800,
+        "temperatura": 26.57,
+        "temp_min": 26.57,
+        "temp_max": 26.57,
+        "estado": "Clear",
+        "dt_txt": "2023-08-08 00:00:00"
+      }
+    ]
+  }
+}

@@ -11,11 +11,12 @@ valor_3hr=[]
 datos_clima = {}
 valores_diarios ={}
 ciudades ={}
-
+json_total = {}
 #! solicitud de conexion al endpoint
 def conexion_endpoint(pet_conexion):
     peticion = pet_conexion
     response = requests.get(peticion)
+    print(response.status_code)
     contenido = response.json()
 
     #! Verificar el código de estado de la respuesta
@@ -28,6 +29,7 @@ def conexion_endpoint(pet_conexion):
         #df = pd.json_normalize(contenido)   #? imprimo esta variable usando json_normalize para que muestre todo en tabla
         json_anidados.append(contenido)     #! de aqui extraigo los campos que necesito
         #print(json_anidados)
+        extraer_datos(json_anidados)
     else:
         print('Error en la solicitud:', response.status_code)
     return(json_anidados)
@@ -35,7 +37,6 @@ def conexion_endpoint(pet_conexion):
 def extraer_datos(json_anidados):
     for datos in json_anidados:
         ciudades[datos['city']['name']] = datos_clima #! en esta variable almaceno todas las respuestas
-        datos_clima['ciudad']=datos['city']['name']
         datos_clima['ciudad']=datos['city']['name']
         datos_clima['pais']=datos['city']['country']
         datos_clima['zona_horaria']=datos['city']['timezone']
@@ -54,7 +55,15 @@ def extraer_datos(json_anidados):
             valores_diarios['estado'] = v['weather'][0]['main']
             valores_diarios['dt_txt'] = v['dt_txt']
             valor_3hr.append(valores_diarios)
-    datos_clima['valores_diarios'] = valor_3hr
-    print(len(datos['list']))
-    with open('5_dias_.json', 'w') as jf:
+            datos_clima['valores_diarios'] = valor_3hr
+            
+        with open(f"{datos['city']['name']}.json", 'w') as jf:
             json.dump(ciudades, jf, ensure_ascii=False, indent=2)
+        
+
+
+
+
+
+
+
