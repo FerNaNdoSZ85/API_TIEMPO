@@ -11,3 +11,4 @@ def clima_ciudades():
         conexion_endpoint(pet_conexion)
 
 clima_ciudades()
+exportar_csv(datos_csv)

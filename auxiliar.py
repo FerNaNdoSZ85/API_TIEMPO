@@ -1,3 +1,4 @@
+import csv
 import json
 
 import pandas as pd
@@ -6,12 +7,8 @@ file = open('F:\API_WEATHER_DA\API_TIEMPO_FORECAST\json_total.json',)
 
 datos_clima = json.load(file) # json puro respuestafull
 dataf = pd.DataFrame(datos_clima)
-#print (dataf)
 ciudades ={}
-valores ={}
-valor_3hr=[]
 
-cont=0
 def extraer_3hr(datos_clima):
     valores ={}
     valor_3hr=[]
@@ -26,11 +23,33 @@ def extraer_3hr(datos_clima):
             valores['temp_min'] = j['main']['temp_min']
             valor_3hr.append(valores)
             ciudades['valores'] = valor_3hr
-            print(j)
 
         with open(f"{i['city']['name']}.json", 'w') as jf:
             json.dump(ciudades, jf, ensure_ascii=False, indent=2)
         valores ={}
         valor_3hr=[]
 
+    return (ciudades)
+
 extraer_3hr(datos_clima)
+
+def limpieza(ciudades):
+    headers =list(ciudades.keys()) + list(ciudades['valores'][0])
+    print(headers)              #guardo los ecabezados para las tablas del cvs
+    df=pd.json_normalize(datos_clima)
+    a = input("desea exportar al formate scv? S/N: ").upper()
+    
+    if a == "S":
+        with open("datos_limpios.csv", "w") as dl:
+            writer=csv.DictWriter(dl, fieldnames=headers, delimiter=',')
+            writer.writeheader()
+            for w in ciudades['valores']:
+                writer.writerow(w)
+            print ("-= Exportacion Finalizada =-")
+            aas= input("presione ENTER para continuar ")
+    else:
+        aas= input("presione ENTER para continuar ")
+        pass
+
+
+limpieza(ciudades)

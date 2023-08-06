@@ -12,6 +12,9 @@ datos_clima = {}
 valores_diarios ={}
 ciudades ={}
 json_total = {}
+datos_csv = {} # variable en la que voy almacenar todas las peticiones
+tabla=[]
+tabla2=[]
 #! solicitud de conexion al endpoint
 def conexion_endpoint(pet_conexion):
     peticion = pet_conexion
@@ -60,14 +63,37 @@ def extraer_datos(json_anidados):
             valores_diarios['dt_txt'] = v['dt_txt']
             valor_3hr.append(valores_diarios)
         datos_clima['valores_diarios'] = valor_3hr
-            
+        
+        datos_csv.update(datos_clima)
+
         with open(f"{datos['city']['name']}.json", 'w') as jf:
             json.dump(ciudades, jf, ensure_ascii=False, indent=2)
+
         valor_3hr=[]
         datos_clima={}
+        #print(type(datos_csv))
+        with open(f"datos_csv.json", 'w') as dcsv:
+            json.dump(datos_csv, dcsv, ensure_ascii=False, indent=2)
+    return datos_csv
 
 
 
+def exportar_csv(datos_csv): #! estas mi variabla de exportacion para csv
+    a= input('Exportar formato csv: SI o NO: ').upper()
+    if a == 'S':
+        campos=list(datos_csv.keys()) + list(datos_csv['valores_diarios'][0])
+
+        with open('datos_csv.csv', 'w') as fcsv:
+            #campos = list(datos_csv.keys()) #! revisar valores para el header
+            writer = csv.DictWriter(fcsv, fieldnames=campos)
+            writer.writeheader()
+            for t in datos_csv['valores_diarios']:
+                writer.writerow(t)
+            print ("-= Exportacion Finalizada =-")
+            aas= input("presione ENTER para continuar")
+    else:
+        aas= input("presione ENTER para continuar")
+        pass
 
 
 
