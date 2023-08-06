@@ -5,648 +5,328 @@
     "zona_horaria": 16200,
     "latitud": 31,
     "longitud": 64,
-    "amanecer": 1691024520,
-    "atardecer": 1691073502,
+    "amanecer": 1691283836,
+    "atardecer": 1691332558,
     "valores_diarios": [
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       },
       {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
-      },
-      {
-        "dt": 1691452800,
-        "temperatura": 26.57,
-        "temp_min": 26.57,
-        "temp_max": 26.57,
-        "estado": "Clear",
-        "dt_txt": "2023-08-08 00:00:00"
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
+      },
+      {
+        "dt": 1691712000,
+        "temperatura": 28.3,
+        "temp_min": 28.3,
+        "temp_max": 28.3,
+        "estado": "Clouds",
+        "dt_txt": "2023-08-11 00:00:00"
       }
     ]
   }
