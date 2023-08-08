@@ -11,10 +11,7 @@ valor_3hr=[]
 datos_clima = {}
 valores_diarios ={}
 ciudades ={}
-json_total = {}
 datos_csv = {} # variable en la que voy almacenar todas las peticiones
-tabla=[]
-tabla2=[]
 #! solicitud de conexion al endpoint
 def conexion_endpoint(pet_conexion):
     peticion = pet_conexion
@@ -61,7 +58,7 @@ def extraer_datos(json_anidados):
             valores_diarios['temp_max'] = v['main']['temp_max']
             valores_diarios['estado'] = v['weather'][0]['main']
             valores_diarios['dt_txt'] = v['dt_txt']
-            valor_3hr.append(valores_diarios)
+            valor_3hr.append(valores_diarios) # realizar verificacion en estas lineas: anidacion erronea
         datos_clima['valores_diarios'] = valor_3hr
         
         datos_csv.update(datos_clima)
@@ -81,10 +78,9 @@ def extraer_datos(json_anidados):
 def exportar_csv(datos_csv): #! estas mi variabla de exportacion para csv
     a= input('Exportar formato csv: SI o NO: ').upper()
     if a == 'S':
-        campos=list(datos_csv.keys()) + list(datos_csv['valores_diarios'][0])
+        campos=list(datos_csv.keys()) + list(datos_csv['valores_diarios'][0]) #? Extraigo del diccionario los headers
 
         with open('datos_csv.csv', 'w') as fcsv:
-            #campos = list(datos_csv.keys()) #! revisar valores para el header
             writer = csv.DictWriter(fcsv, fieldnames=campos)
             writer.writeheader()
             for t in datos_csv['valores_diarios']:

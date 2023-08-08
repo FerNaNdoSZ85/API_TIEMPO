@@ -1,331 +1,331 @@
 {
-  "ciudad": "Great River",
-  "pais": "US",
-  "zona_horaria": -18000,
-  "latitud": 40,
-  "longitud": -73,
-  "amanecer": 1691315688,
-  "atardecer": 1691366462,
+  "ciudad": "Ombues de Lavalle",
+  "pais": "UY",
+  "zona_horaria": -10800,
+  "latitud": -34,
+  "longitud": -58,
+  "amanecer": 1691404773,
+  "atardecer": 1691442965,
   "valores_diarios": [
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     },
     {
-      "dt": 1691787600,
-      "temperatura": 25.48,
-      "temp_min": 25.48,
-      "temp_max": 25.48,
+      "dt": 1691884800,
+      "temperatura": 5.11,
+      "temp_min": 5.11,
+      "temp_max": 5.11,
       "estado": "Clouds",
-      "dt_txt": "2023-08-11 21:00:00"
+      "dt_txt": "2023-08-13 00:00:00"
     }
   ]
 }
