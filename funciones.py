@@ -4,6 +4,8 @@ import json
 import pandas as pd
 import requests
 
+from conex_db import *
+
 #! Inicio variables iniciales de manejo
 pet_conexion=[]
 json_anidados=[]
